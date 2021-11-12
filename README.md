@@ -1,3 +1,4 @@
 ## Rush MERN stack -> Micro Bloggos
 
-travail sur l'affichage des articles ainsi que l' add et delete
+Réseau social en stack MERN, permettant de créer des comptes utilisateurs,
+de poster des articles, de s'abonner à d'autres utilisateurs.
